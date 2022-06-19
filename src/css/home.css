@@ -1,0 +1,15 @@
+.Home{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    height:100rem;
+    padding: 2rem;
+    word-spacing: 0.2rem;
+    line-height: 2rem;
+}
+.Home-content{
+    
+    border:0.1rem solid gray;
+   
+    padding:2rem;
+}

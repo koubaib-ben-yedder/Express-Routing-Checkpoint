@@ -1,0 +1,25 @@
+.ourServices{
+
+    display:grid;
+    grid-template-columns: repeat(3,auto);
+    grid-template-rows: repeat(2,auto);
+    gap:10rem;
+    justify-content:center;
+
+
+}
+.ourServices-content{
+
+    width: 20rem;
+    height: 30rem;
+    padding:2rem;
+    border:0.1rem gray solid;
+
+}
+.ourServices-content-scroll{
+
+    overflow: scroll;
+    height:25rem;
+    padding:1rem;
+
+}
